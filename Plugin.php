@@ -1,4 +1,4 @@
-<?php namespace ToughDeveloper\ImageResizer;
+<?php namespace Developalgoritma\ImageResizer;
 
 use System\Classes\PluginBase;
 use ToughDeveloper\ImageResizer\Classes\Image;
