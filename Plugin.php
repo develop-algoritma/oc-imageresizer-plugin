@@ -1,7 +1,7 @@
 <?php namespace Developalgoritma\ImageResizer;
 
 use System\Classes\PluginBase;
-use ToughDeveloper\ImageResizer\Classes\Image;
+use Developalgoritma\ImageResizer\Classes\Image;
 use Validator;
 
 /**
