@@ -1,6 +1,6 @@
-<?php namespace ToughDeveloper\ImageResizer\Classes;
+<?php namespace Developalgoritma\ImageResizer\Classes;
 
-use ToughDeveloper\ImageResizer\Models\Settings;
+use Developalgoritma\ImageResizer\Models\Settings;
 use October\Rain\Database\Attach\File;
 use Tinify\Tinify;
 use Tinify\Source;
