@@ -1,4 +1,4 @@
-<?php namespace ToughDeveloper\ImageResizer\Models;
+<?php namespace Developalgoritma\ImageResizer\Models;
 
 use Model;
 use Lang;
